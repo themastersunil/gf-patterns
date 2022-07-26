@@ -5,7 +5,7 @@
 
 [![contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwisiswant0/gf-secrets/issues)
 
-If you have any other secret or credential patterns, feel free to submit a pull request. 🇮🇳:
+If you have any other secret or credential patterns, feel free to submit a pull request. :🇮🇳:
 
 ## License :page_facing_up:
 
