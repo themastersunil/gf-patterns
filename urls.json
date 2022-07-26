@@ -1,0 +1,4 @@
+{
+        "flags": "-oriaEH",
+        "pattern": "https?://[^\"\\'<>) ]+"
+}

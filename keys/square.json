@@ -1,0 +1,9 @@
+{
+    "flags": "-HanrEo",
+    "patterns": [
+        "sq0atp-[0-9A-Za-z\\-\\_]{22}",
+        "rsq0csp-[0-9A-Za-z\\-\\_]{43}",
+        "sq0csp-[ 0-9A-Za-z\\-_]{43}",
+        "EAAA[a-zA-Z0-9]{60}"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "flags": "-HanrEo",
+    "patterns": [
+        "AIza[0-9A-Za-z\\-\\_]{35}",
+        "[0-9]+-[0-9A-Za-z_]{32}\\.apps\\.googleusercontent\\.com",
+        "\"type\": \"service_account\"",
+        "ya29\\.[0-9A-Za-z\\-\\_]+"
+    ]
+}

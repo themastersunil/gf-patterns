@@ -1,0 +1,8 @@
+{
+    "flags": "-HanrEo",
+    "patterns": [
+        "EAACEdEose0cBA[0-9A-Za-z]+",
+        "[f|F][a|A][c|C][e|E][b|B][o|O][o|O][k|K].*['|\"][0-9a-f]{32}['|\"]",
+        "facebook.*['|\"][0-9a-f]{32}['|\"]"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "flags": "-HanrEo",
+    "patterns": [
+        "([^A-Z0-9]|^)(AKIA|A3T|AGPA|AIDA|AROA|AIPA|ANPA|ANVA|ASIA)[A-Z0-9]{12,}",
+        "(?i)aws(.{0,20})?(?-i)['\"][0-9a-zA-Z\/+]{40}['\"]"
+    ]
+}
