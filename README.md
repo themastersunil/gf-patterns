@@ -1,5 +1,5 @@
 # gf-patterns
-
+a wrapper for grep that makes it easier to search for items.
 
 ## Contributing :busts_in_silhouette:
 
