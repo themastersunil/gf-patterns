@@ -5,7 +5,7 @@ a wrapper for grep that makes it easier to search for items.
 
 [![contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwisiswant0/gf-secrets/issues)
 
-If you have any other secret or credential patterns, feel free to submit a pull request. :indian_flag:
+If you have any other secret or credential patterns, feel free to submit a pull request. :india_flag:
 
 ## License :page_facing_up:
 
