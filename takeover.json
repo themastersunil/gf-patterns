@@ -1,5 +1,5 @@
 {
-    "flags": "-HniE",
+    "flags": "-rHniE",
     "patterns": [
         "There is no app configured at that hostname",
         "NoSuchBucket",
