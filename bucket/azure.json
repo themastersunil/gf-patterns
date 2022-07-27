@@ -1,0 +1,4 @@
+{
+   "flags":"-rEHina",
+   "pattern":"\\.blob\\.core\\.windows\\.net\/"
+}
