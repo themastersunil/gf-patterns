@@ -1,4 +1,4 @@
 {
-  "flags": "-HniE",
+  "flags": "-HniEr",
   "pattern": "\u003cinput[^\u003e]+type=[\"']?file[\"']?"
 }
