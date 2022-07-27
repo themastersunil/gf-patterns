@@ -1,0 +1,7 @@
+{
+   "flags":"-rEHina",
+   "patterns":[
+      "\\.storage\\.googleapis\\.com\/",
+      "https\\:\/\/storage\\.googleapis\\.com\/"
+   ]
+}
