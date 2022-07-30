@@ -1,7 +1,7 @@
 {
-   "flags":"-rEHina",
+   "flags":"-ProHai",
    "patterns":[
-      "\\.storage\\.googleapis\\.com\/",
-      "https\\:\/\/storage\\.googleapis\\.com\/"
+      "\\S+\\.storage\\.googleapis\\.com[^ ]*",
+      "\\S+storage\\.googleapis\\.com[^ ]*"
    ]
 }
