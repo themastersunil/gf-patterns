@@ -1,4 +1,4 @@
 {
-   "flags":"-rEHina",
-   "pattern":"\\.blob\\.core\\.windows\\.net\/"
+   "flags":"-ProHai",
+   "pattern":"\\S+\\.blob\\.core\\.windows\\.net/[^ ]*"
 }
