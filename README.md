@@ -1,5 +1,6 @@
 # gf-patterns
-a wrapper for grep that makes it easier to search for items.
+a wrapper for grep that makes it easier to search for items.  
+Look for more, visit: [https://github.com/lutfumertceylan/top25-parameter](https://github.com/lutfumertceylan/top25-parameter)  
 
 ## Contributing :busts_in_silhouette:
 
